@@ -18,7 +18,7 @@ const LEFT_PANEL_BUTTON_LABEL_WIDTH: usize = "Button 0".len();
 fn main() -> Result<(), eframe::Error> {
     let options = eframe::NativeOptions {
         viewport: egui::ViewportBuilder::default()
-            .with_title("RustLaser GUI v0.4")
+            .with_title("BeamPainter Laser GUI v0.4")
             .with_inner_size([1280.0, 800.0])
             .with_min_inner_size([1024.0, 700.0]),
         ..Default::default()
