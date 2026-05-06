@@ -1,14 +1,9 @@
-# Rust Laser GUI 
+# BeamPainter Laser GUI 
 # 🚧 WARNING!!! Vibe Coded project! 🚧
 
 This simple vibe coded project only exists because no other viable alternatives exist for Linux users. This project is completely open source and the author takes NO RESPONSIBILITY of malfunctionings or misuses of the code in this open source repository. Use it at your Own Risk!
 
 The author suggests to test it in some **laser off** runs before using it seriously. Wear Always the best protections while using a Laser! 
-
-## Legal / Trademark Notice
-
-This repository is an independent community project and is not associated with the Rust Foundation.
-The Rust name and logo are trademarks of their respective owners and are used here solely in a descriptive manner to indicate the programming language used in this software.
 
 ## How to build it?
 
@@ -47,4 +42,9 @@ To generate the gcode file (required) the author has successfully used [LaserWeb
 Stay Tuned!
 
 ## This project has been completely Vibe Coded with Codex! 
+
+## Legal / Trademark Notice
+
+This repository is an independent community project and is not associated with the Rust Foundation.
+The Rust name and logo are trademarks of their respective owners and are used here solely in a descriptive manner to indicate the programming language used in this software.
 
