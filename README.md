@@ -5,6 +5,11 @@ This simple vibe coded project only exists because no other viable alternatives 
 
 The author suggests to test it in some **laser off** runs before using it seriously. Wear Always the best protections while using a Laser! 
 
+## Legal / Trademark Notice
+
+This repository is an independent community project and is not associated with the Rust Foundation.
+The Rust name and logo are trademarks of their respective owners and are used here solely in a descriptive manner to indicate the programming language used in this software.
+
 ## How to build it?
 
 Add the user to the following groups
